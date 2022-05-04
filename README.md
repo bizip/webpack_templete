@@ -6,7 +6,7 @@
 
 # Link to official documentation
 
-## [Awsome Book](https://webpack.js.org/)
+## [doc](https://webpack.js.org/)
 
 ## Built With
 
